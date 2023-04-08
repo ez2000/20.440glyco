@@ -1,0 +1,268 @@
+﻿Human,Mouse,Name,Feature Type,Ensembl ID,Entrez Gene ID
+AHSA1,Ahsa1,"AHA1, activator of heat shock protein ATPase 1",protein coding gene,ENSMUSG00000021037,217737
+API5,Api5,apoptosis inhibitor 5,protein coding gene,ENSMUSG00000027193,11800
+ATP6V1E1,Atp6v1e1,"ATPase, H+ transporting, lysosomal V1 subunit E1",protein coding gene,ENSMUSG00000019210,11973
+BCAP31,Bcap31,B cell receptor associated protein 31,protein coding gene,ENSMUSG00000002015,27061
+COPS6,Cops6,COP9 signalosome subunit 6,protein coding gene,ENSMUSG00000019494,26893
+CSNK2B,Csnk2b,"casein kinase 2, beta polypeptide",protein coding gene,ENSMUSG00000024387,13001
+EIF3I,Eif3i,"eukaryotic translation initiation factor 3, subunit I",protein coding gene,ENSMUSG00000028798,54709
+EIF4G2,Eif4g2,"eukaryotic translation initiation factor 4, gamma 2",protein coding gene,ENSMUSG00000005610,13690
+GDI2,Gdi2,guanosine diphosphate (GDP) dissociation inhibitor 2,protein coding gene,ENSMUSG00000021218,14569
+HNRNPH1,Hnrnpf,heterogeneous nuclear ribonucleoprotein F,protein coding gene,ENSMUSG00000042079,98758
+HNRNPH1,Hnrnph1,heterogeneous nuclear ribonucleoprotein H1,protein coding gene,ENSMUSG00000007850,59013
+HNRNPH1,Hnrnph2,heterogeneous nuclear ribonucleoprotein H2,protein coding gene,ENSMUSG00000045427,56258
+ILF2,Ilf2,interleukin enhancer binding factor 2,protein coding gene,ENSMUSG00000001016,67781
+NCL,Dnajc5,DnaJ heat shock protein family (Hsp40) member C5,protein coding gene,ENSMUSG00000000826,13002
+NCL,Ncl,nucleolin,protein coding gene,ENSMUSG00000026234,17975
+OTUB1,Otub1,"OTU domain, ubiquitin aldehyde binding 1",protein coding gene,ENSMUSG00000024767,107260
+PDAP1,Pdap1,PDGFA associated protein 1,protein coding gene,ENSMUSG00000029623,231887
+POLR2F,Polr2f,polymerase (RNA) II (DNA directed) polypeptide F,protein coding gene,ENSMUSG00000033020,69833
+RHOA,Rhoa,ras homolog family member A,protein coding gene,ENSMUSG00000007815,11848
+SRP14,Srp14,signal recognition particle 14,protein coding gene,ENSMUSG00000009549,20813
+SRRM1,Srrm1,serine/arginine repetitive matrix 1,protein coding gene,ENSMUSG00000028809,51796
+TIMM44,Timm44,translocase of inner mitochondrial membrane 44,protein coding gene,ENSMUSG00000002949,21856
+TTC1,Ttc1,tetratricopeptide repeat domain 1,protein coding gene,ENSMUSG00000041278,66827
+YWHAB,Ywhab,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide",protein coding gene,ENSMUSG00000018326,54401
+ALG1,Alg1,"asparagine-linked glycosylation 1 (beta-1,4-mannosyltransferase)",protein coding gene,ENSMUSG00000039427,208211
+ALG2,Alg2,"asparagine-linked glycosylation 2 (alpha-1,3-mannosyltransferase)",protein coding gene,ENSMUSG00000039740,56737
+ALG2,Pdcd6,programmed cell death 6,protein coding gene,ENSMUSG00000021576,18570
+ALG3,Alg3,"asparagine-linked glycosylation 3 (alpha-1,3-mannosyltransferase)",protein coding gene,ENSMUSG00000033809,208624
+ALG5,Alg5,asparagine-linked glycosylation 5 (dolichyl-phosphate beta-glucosyltransferase),protein coding gene,ENSMUSG00000036632,66248
+ALG6,Alg6,"asparagine-linked glycosylation 6 (alpha-1,3,-glucosyltransferase)",protein coding gene,ENSMUSG00000073792,320438
+ALG8,Alg8,"asparagine-linked glycosylation 8 (alpha-1,3-glucosyltransferase)",protein coding gene,ENSMUSG00000035704,381903
+ALG9,Alg9,"asparagine-linked glycosylation 9 (alpha 1,2 mannosyltransferase)",protein coding gene,ENSMUSG00000032059,102580
+ALG10,Alg10b,"asparagine-linked glycosylation 10B (alpha-1,2-glucosyltransferase)",protein coding gene,ENSMUSG00000075470,380959
+ALG10B,Alg10b,"asparagine-linked glycosylation 10B (alpha-1,2-glucosyltransferase)",protein coding gene,ENSMUSG00000075470,380959
+UGGT1,Uggt1,UDP-glucose glycoprotein glucosyltransferase 1,protein coding gene,ENSMUSG00000037470,320011
+UGGT2,Uggt2,UDP-glucose glycoprotein glucosyltransferase 2,protein coding gene,ENSMUSG00000042104,66435
+ALG11,Alg11,"asparagine-linked glycosylation 11 (alpha-1,2-mannosyltransferase)",protein coding gene,ENSMUSG00000063362,207958
+ALG12,Alg12,"asparagine-linked glycosylation 12 (alpha-1,6-mannosyltransferase)",protein coding gene,ENSMUSG00000035845,223774
+ALG13,Alg13,asparagine-linked glycosylation 13,protein coding gene,ENSMUSG00000041718,67574
+ALG13,Glt28d2,glycosyltransferase 28 domain containing 2,protein coding gene,ENSMUSG00000031286,320302
+ALG14,Alg14,asparagine-linked glycosylation 14,protein coding gene,ENSMUSG00000039887,66789
+DPAGT1,Dpagt1,dolichyl-phosphate N-acetylglucosaminephosphotransferase 1,protein coding gene,ENSMUSG00000032123,13478
+DPM1,Dpm1,dolichol-phosphate (beta-D) mannosyltransferase 1,protein coding gene,ENSMUSG00000078919,13480
+DPM1,Dpm2,dolichol-phosphate (beta-D) mannosyltransferase 2,protein coding gene,ENSMUSG00000026810,13481
+STT3A,Stt3a,"STT3, subunit of the oligosaccharyltransferase complex, homolog A (S. cerevisiae)",protein coding gene,ENSMUSG00000032116,16430
+STT3B,Stt3b,"STT3, subunit of the oligosaccharyltransferase complex, homolog B (S. cerevisiae)",protein coding gene,ENSMUSG00000032437,68292
+UGCG,Ugcg,UDP-glucose ceramide glucosyltransferase,protein coding gene,ENSMUSG00000028381,22234
+PIGA,Piga,"phosphatidylinositol glycan anchor biosynthesis, class A",protein coding gene,ENSMUSG00000031381,18700
+UGT8,Ugt8a,UDP galactosyltransferase 8A,protein coding gene,ENSMUSG00000032854,22239
+POGLUT1,Poglut1,protein O-glucosyltransferase 1,protein coding gene,ENSMUSG00000034064,224143
+POFUT1,Pofut1,protein O-fucosyltransferase 1,protein coding gene,ENSMUSG00000046020,140484
+POFUT2,Pofut2,protein O-fucosyltransferase 2,protein coding gene,ENSMUSG00000020260,80294
+OGT,Ogt,O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase),protein coding gene,ENSMUSG00000034160,108155
+EOGT,Eogt,EGF domain-specific O-linked N-acetylglucosamine (GlcNAc) transferase,protein coding gene,ENSMUSG00000035245,101351
+COLGALT1,Colgalt1,collagen beta(1-O)galactosyltransferase 1,protein coding gene,ENSMUSG00000034807,234407
+PLOD3,Plod3,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3",protein coding gene,ENSMUSG00000004846,26433
+COLGALT2,Colgalt2,collagen beta(1-O)galactosyltransferase 2,protein coding gene,ENSMUSG00000032649,269132
+POMT1,Pomt1,protein-O-mannosyltransferase 1,protein coding gene,ENSMUSG00000039254,99011
+POMK,Pomk,protein-O-mannose kinase,protein coding gene,ENSMUSG00000037251,74653
+POMT2,Pomt2,protein-O-mannosyltransferase 2,protein coding gene,ENSMUSG00000034126,217734
+POMT2,Sptlc2,"serine palmitoyltransferase, long chain base subunit 2",protein coding gene,ENSMUSG00000021036,20773
+DPY19L1,Dpy19l1,dpy-19-like 1 (C. elegans),protein coding gene,ENSMUSG00000043067,244745
+DPY19L2,Dpy19l2,dpy-19-like 2 (C. elegans),protein coding gene,ENSMUSG00000085576,320752
+DPY19L3,Dpy19l3,dpy-19-like 3 (C. elegans),protein coding gene,ENSMUSG00000043671,233115
+POGLUT2,Poglut2,protein O-glucosyltransferase 2,protein coding gene,ENSMUSG00000026047,72050
+POGLUT3,Poglut3,protein O-glucosyltransferase 3,protein coding gene,ENSMUSG00000034487,68304
+DPY19L4,Dpy19l4,dpy-19-like 4 (C. elegans),protein coding gene,ENSMUSG00000045205,381510
+TMEM260,Tmem260,transmembrane protein 260,protein coding gene,ENSMUSG00000036339,218989
+TMTC1,Tmtc1,transmembrane and tetratricopeptide repeat containing 1,protein coding gene,ENSMUSG00000030306,387314
+TMTC2,Tmtc2,transmembrane and tetratricopeptide repeat containing 2,protein coding gene,ENSMUSG00000036019,278279
+TMTC3,Tmtc3,transmembrane and tetratricopeptide repeat containing 3,protein coding gene,ENSMUSG00000036676,237500
+TMTC4,Tmtc4,transmembrane and tetratricopeptide repeat containing 4,protein coding gene,ENSMUSG00000041594,70551
+PGAP4,Pgap4,post-GPI attachment to proteins GalNAc transferase 4,protein coding gene,ENSMUSG00000039611,67063
+PIGV,Pigv,"phosphatidylinositol glycan anchor biosynthesis, class V",protein coding gene,ENSMUSG00000043257,230801
+PIGM,Pigm,"phosphatidylinositol glycan anchor biosynthesis, class M",protein coding gene,ENSMUSG00000050229,67556
+PIGL,Pigl,"phosphatidylinositol glycan anchor biosynthesis, class L",protein coding gene,ENSMUSG00000014245,327942
+PIGB,Pigb,"phosphatidylinositol glycan anchor biosynthesis, class B",protein coding gene,ENSMUSG00000079469,55981
+PIGZ,Ncbp2,nuclear cap binding protein subunit 2,protein coding gene,ENSMUSG00000022774,68092
+PIGZ,Pigz,"phosphatidylinositol glycan anchor biosynthesis, class Z",protein coding gene,ENSMUSG00000045625,239827
+MGAT1,Mgat1,mannoside acetylglucosaminyltransferase 1,protein coding gene,ENSMUSG00000020346,17308
+MGAT1,Mogat1,monoacylglycerol O-acyltransferase 1,protein coding gene,ENSMUSG00000012187,68393
+C1GALT1,C1galt1,"core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1",protein coding gene,ENSMUSG00000042460,94192
+C1GALT1C1,C1galt1c1,C1GALT1-specific chaperone 1,protein coding gene,ENSMUSG00000048970,59048
+B3GNT6,B3gnt6,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 (core 3 synthase)",protein coding gene,ENSMUSG00000074004,272411
+B3GNT6,B4gat1,"beta-1,4-glucuronyltransferase 1",protein coding gene,ENSMUSG00000047379,108902
+GCNT1,Gcnt1,"glucosaminyl (N-acetyl) transferase 1, core 2",protein coding gene,ENSMUSG00000038843,14537
+B4GALT6,B4galt6,"UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 6",protein coding gene,ENSMUSG00000056124,56386
+B4GALT7,B4galt7,"xylosylprotein beta1,4-galactosyltransferase, polypeptide 7 (galactosyltransferase I)",protein coding gene,ENSMUSG00000021504,218271
+XXYLT1,Xxylt1,xyloside xylosyltransferase 1,protein coding gene,ENSMUSG00000047434,268880
+B3GLCT,B3glct,beta-3-glucosyltransferase,protein coding gene,ENSMUSG00000051950,381694
+POMGNT2,Pomgnt2,"protein O-linked mannose beta 1,4-N-acetylglucosaminyltransferase 2",protein coding gene,ENSMUSG00000066235,215494
+POMGNT1,Pomgnt1,"protein O-linked mannose beta 1,2-N-acetylglucosaminyltransferase",protein coding gene,ENSMUSG00000028700,68273
+GXYLT1,Gxylt1,glucoside xylosyltransferase 1,protein coding gene,ENSMUSG00000036197,223827
+GXYLT2,Gxylt2,glucoside xylosyltransferase 2,protein coding gene,ENSMUSG00000030074,232313
+MFNG,Mfng,MFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase,protein coding gene,ENSMUSG00000018169,17305
+LFNG,Lfng,LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase,protein coding gene,ENSMUSG00000029570,16848
+RFNG,Rfng,RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase,protein coding gene,ENSMUSG00000025158,19719
+B4GALT5,B4galt5,"UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 5",protein coding gene,ENSMUSG00000017929,56336
+B3GALT6,B3galt6,"UDP-Gal:betaGal beta 1,3-galactosyltransferase, polypeptide 6",protein coding gene,ENSMUSG00000050796,117592
+B3GALT6,B3gnt2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",protein coding gene,ENSMUSG00000051650,53625
+B3GAT3,B3gat3,"beta-1,3-glucuronyltransferase 3 (glucuronosyltransferase I)",protein coding gene,ENSMUSG00000071649,72727
+MGAT5B,Mgat5b,"mannoside acetylglucosaminyltransferase 5, isoenzyme B",protein coding gene,ENSMUSG00000043857,268510
+B3GALNT2,B3galnt2,"UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 2",protein coding gene,ENSMUSG00000039242,97884
+A4GALT,A4galt,"alpha 1,4-galactosyltransferase",protein coding gene,ENSMUSG00000047878,239559
+B4GALNT1,B4galnt1,"beta-1,4-N-acetyl-galactosaminyl transferase 1",protein coding gene,ENSMUSG00000006731,14421
+B3GNT5,B3gnt5,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5",protein coding gene,ENSMUSG00000022686,108105
+B3GALNT1,B3galnt1,"UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 1",protein coding gene,ENSMUSG00000043300,26879
+FKRP,Fkrp,fukutin related protein,protein coding gene,ENSMUSG00000048920,243853
+FKTN,Fktn,fukutin,protein coding gene,ENSMUSG00000028414,246179
+B4GAT1,B4gat1,"beta-1,4-glucuronyltransferase 1",protein coding gene,ENSMUSG00000047379,108902
+RXYLT1,Pgap6,post-glycosylphosphatidylinositol attachment to proteins 6,protein coding gene,ENSMUSG00000024180,60455
+RXYLT1,Rxylt1,ribitol xylosyltransferase 1,protein coding gene,ENSMUSG00000034620,216395
+FUT8,Fut8,fucosyltransferase 8,protein coding gene,ENSMUSG00000021065,53618
+MGAT4D,Mgat4d,"MGAT4 family, member C",protein coding gene,ENSMUSG00000035057,67555
+B3GALT4,B3galt4,"UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 4",protein coding gene,ENSMUSG00000067370,54218
+GCNT4,Gcnt4,"glucosaminyl (N-acetyl) transferase 4, core 2 (beta-1,6-N-acetylglucosaminyltransferase)",protein coding gene,ENSMUSG00000091387,218476
+MGAT2,Mgat2,mannoside acetylglucosaminyltransferase 2,protein coding gene,ENSMUSG00000043998,217664
+MGAT2,Mogat2,monoacylglycerol O-acyltransferase 2,protein coding gene,ENSMUSG00000052396,233549
+EXT1,Ext1,exostosin glycosyltransferase 1,protein coding gene,ENSMUSG00000061731,14042
+CHPF,Chpf,chondroitin polymerizing factor,protein coding gene,ENSMUSG00000032997,74241
+GCNT3,Gcnt3,"glucosaminyl (N-acetyl) transferase 3, mucin type",protein coding gene,ENSMUSG00000032226,72077
+MGAT3,Mgat3,mannoside acetylglucosaminyltransferase 3,protein coding gene,ENSMUSG00000042428,17309
+MGAT5,Mgat5,mannoside acetylglucosaminyltransferase 5,protein coding gene,ENSMUSG00000036155,107895
+LARGE2,Large2,LARGE xylosyl- and glucuronyltransferase 2,protein coding gene,ENSMUSG00000040434,228366
+LARGE1,Large1,LARGE xylosyl- and glucuronyltransferase 1,protein coding gene,ENSMUSG00000004383,16795
+CHPF2,Chpf2,chondroitin polymerizing factor 2,protein coding gene,ENSMUSG00000038181,100910
+CHSY1,Chsy1,chondroitin sulfate synthase 1,protein coding gene,ENSMUSG00000032640,269941
+CHSY3,Chsy3,chondroitin sulfate synthase 3,protein coding gene,ENSMUSG00000058152,78923
+CSGALNACT1,Csgalnact1,chondroitin sulfate N-acetylgalactosaminyltransferase 1,protein coding gene,ENSMUSG00000036356,234356
+CSGALNACT2,Csgalnact2,chondroitin sulfate N-acetylgalactosaminyltransferase 2,protein coding gene,ENSMUSG00000042042,78752
+EXT2,Ext2,exostosin glycosyltransferase 2,protein coding gene,ENSMUSG00000027198,14043
+EXTL1,Extl1,exostosin-like glycosyltransferase 1,protein coding gene,ENSMUSG00000028838,56219
+EXTL2,Extl2,exostosin-like glycosyltransferase 2,protein coding gene,ENSMUSG00000027963,58193
+EXTL3,Extl3,exostosin-like glycosyltransferase 3,protein coding gene,ENSMUSG00000021978,54616
+B3GALT1,B3galt1,"UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 1",protein coding gene,ENSMUSG00000034780,26877
+B3GALT2,B3galt2,"UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 2",protein coding gene,ENSMUSG00000033849,26878
+B3GALT5,B3galt5,"UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 5",protein coding gene,ENSMUSG00000074892,93961
+B3GNT2,B3gnt2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",protein coding gene,ENSMUSG00000051650,53625
+B3GNT3,B3gnt3,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3",protein coding gene,ENSMUSG00000031803,72297
+B3GNT4,B3gnt4,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4",protein coding gene,ENSMUSG00000029431,231727
+B3GNT7,B3gnt7,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7",protein coding gene,ENSMUSG00000079445,227327
+B3GNT8,B3gnt8,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8",protein coding gene,ENSMUSG00000059479,232984
+B3GNT8,B3gntl1,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase-like 1",protein coding gene,ENSMUSG00000046605,210004
+B3GNT9,B3gnt9,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 9",protein coding gene,ENSMUSG00000069920,97440
+B4GALNT3,B4galnt3,"beta-1,4-N-acetyl-galactosaminyl transferase 3",protein coding gene,ENSMUSG00000041372,330406
+B4GALNT4,B4galnt4,"beta-1,4-N-acetyl-galactosaminyl transferase 4",protein coding gene,ENSMUSG00000055629,330671
+B4GALT1,B4galt1,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1",protein coding gene,ENSMUSG00000028413,14595
+B4GALT2,B4galt2,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2",protein coding gene,ENSMUSG00000028541,53418
+B4GALT3,B4galt3,"UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 3",protein coding gene,ENSMUSG00000052423,57370
+B4GALT4,B4galt4,"UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 4",protein coding gene,ENSMUSG00000022793,56375
+GCNT2,Gcnt2,"glucosaminyl (N-acetyl) transferase 2, I-branching enzyme",protein coding gene,ENSMUSG00000021360,14538
+GCNT7,Gcnt2,"glucosaminyl (N-acetyl) transferase 2, I-branching enzyme",protein coding gene,ENSMUSG00000021360,14538
+GCNT7,Gcnt7,glucosaminyl (N-acetyl) transferase family member 7,protein coding gene,ENSMUSG00000074569,654821
+B4GALNT2,B4galnt2,"beta-1,4-N-acetyl-galactosaminyl transferase 2",protein coding gene,ENSMUSG00000013418,14422
+B3GAT1,B3gat1,"beta-1,3-glucuronyltransferase 1 (glucuronosyltransferase P)",protein coding gene,ENSMUSG00000045994,76898
+B3GAT2,B3gat2,"beta-1,3-glucuronyltransferase 2 (glucuronosyltransferase S)",protein coding gene,ENSMUSG00000026156,280645
+A4GNT,A4gnt,"alpha-1,4-N-acetylglucosaminyltransferase",protein coding gene,ENSMUSG00000037953,333424
+ST3GAL1,St3gal1,"ST3 beta-galactoside alpha-2,3-sialyltransferase 1",protein coding gene,ENSMUSG00000013846,20442
+ST3GAL2,St3gal2,"ST3 beta-galactoside alpha-2,3-sialyltransferase 2",protein coding gene,ENSMUSG00000031749,20444
+ST3GAL3,St3gal3,"ST3 beta-galactoside alpha-2,3-sialyltransferase 3",protein coding gene,ENSMUSG00000028538,20441
+ST3GAL4,St3gal4,"ST3 beta-galactoside alpha-2,3-sialyltransferase 4",protein coding gene,ENSMUSG00000032038,20443
+ST3GAL6,St3gal6,"ST3 beta-galactoside alpha-2,3-sialyltransferase 6",protein coding gene,ENSMUSG00000022747,54613
+ST6GAL1,St6gal1,"beta galactoside alpha 2,6 sialyltransferase 1",protein coding gene,ENSMUSG00000022885,20440
+ST6GAL2,St6gal2,"beta galactoside alpha 2,6 sialyltransferase 2",protein coding gene,ENSMUSG00000024172,240119
+ST6GALNAC1,St6galnac1,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1",protein coding gene,ENSMUSG00000009588,20445
+ST6GALNAC2,St6galnac2,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2",protein coding gene,ENSMUSG00000057286,20446
+ST6GALNAC2,St6galnac2,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2",protein coding gene,ENSMUSG00000110170,20446
+ST6GALNAC3,St6galnac3,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3",protein coding gene,ENSMUSG00000052544,20447
+ST6GALNAC4,St6galnac4,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4",protein coding gene,ENSMUSG00000079442,20448
+ST6GALNAC5,St6galnac5,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5",protein coding gene,ENSMUSG00000039037,26938
+ST6GALNAC6,St6galnac6,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 6",protein coding gene,ENSMUSG00000026811,50935
+ST8SIA1,St8sia1,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1",protein coding gene,ENSMUSG00000030283,20449
+ST8SIA2,St8sia2,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2",protein coding gene,ENSMUSG00000025789,20450
+ST8SIA3,St8sia3,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3",protein coding gene,ENSMUSG00000056812,20451
+ST8SIA4,St8sia4,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4",protein coding gene,ENSMUSG00000040710,20452
+ST8SIA5,St8sia5,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5",protein coding gene,ENSMUSG00000025425,225742
+ST8SIA6,St8sia6,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 6",protein coding gene,ENSMUSG00000003418,241230
+ABO,Abo,"ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase, transferase B, alpha 1-3-galactosyltransferase)",protein coding gene,ENSMUSG00000015787,80908
+FUT1,Fut1,fucosyltransferase 1,protein coding gene,ENSMUSG00000008461,14343
+FUT2,Fut2,fucosyltransferase 2,protein coding gene,ENSMUSG00000055978,14344
+FUT2,Sec1,secretory blood group 1,protein coding gene,ENSMUSG00000040364,56546
+FUT3,Sec1,secretory blood group 1,protein coding gene,ENSMUSG00000040364,56546
+FUT4,Fut4,fucosyltransferase 4,protein coding gene,ENSMUSG00000049307,14345
+FUT5,,,,,
+FUT6,,,,,
+FUT7,Fut7,fucosyltransferase 7,protein coding gene,ENSMUSG00000036587,14347
+FUT9,Fut9,fucosyltransferase 9,protein coding gene,ENSMUSG00000055373,14348
+FUT10,Fut10,fucosyltransferase 10,protein coding gene,ENSMUSG00000046152,171167
+FUT11,Fut11,fucosyltransferase 11,protein coding gene,ENSMUSG00000039357,73068
+ST3GAL5,St3gal5,"ST3 beta-galactoside alpha-2,3-sialyltransferase 5",protein coding gene,ENSMUSG00000056091,20454
+CHST10,Chst10,carbohydrate sulfotransferase 10,protein coding gene,ENSMUSG00000026080,98388
+CHST1,Chst1,carbohydrate sulfotransferase 1,protein coding gene,ENSMUSG00000027221,76969
+CHST2,Chst2,carbohydrate sulfotransferase 2,protein coding gene,ENSMUSG00000033350,54371
+CHST3,Chst3,carbohydrate sulfotransferase 3,protein coding gene,ENSMUSG00000057337,53374
+CHST4,Chst4,carbohydrate sulfotransferase 4,protein coding gene,ENSMUSG00000035930,26887
+CHST5,Chst5,carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 5,protein coding gene,ENSMUSG00000031952,56773
+CHST6,Chst5,carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 5,protein coding gene,ENSMUSG00000031952,56773
+CHST7,Chst7,carbohydrate (N-acetylglucosamino) sulfotransferase 7,protein coding gene,ENSMUSG00000037347,60322
+CHST8,Chst8,carbohydrate sulfotransferase 8,protein coding gene,ENSMUSG00000060402,68947
+CHST9,Chst9,carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 9,protein coding gene,ENSMUSG00000047161,71367
+GAL3ST1,Gal3st1,galactose-3-O-sulfotransferase 1,protein coding gene,ENSMUSG00000049721,53897
+GAL3ST2,Gal3st2,galactose-3-O-sulfotransferase 2,protein coding gene,ENSMUSG00000094651,381334
+GAL3ST2,Gal3st2b,galactose-3-O-sulfotransferase 2B,protein coding gene,ENSMUSG00000093805,100041596
+GAL3ST2,Gal3st2c,galactose-3-O-sulfotransferase 2C,protein coding gene,ENSMUSG00000073608,619597
+GAL3ST2,Gal3st3,galactose-3-O-sulfotransferase 3,protein coding gene,ENSMUSG00000047658,545276
+GAL3ST3,Gal3st3,galactose-3-O-sulfotransferase 3,protein coding gene,ENSMUSG00000047658,545276
+GAL3ST4,Gal3st4,galactose-3-O-sulfotransferase 4,protein coding gene,ENSMUSG00000075593,330217
+CHST11,Chst11,carbohydrate sulfotransferase 11,protein coding gene,ENSMUSG00000034612,58250
+CHST12,Chst12,carbohydrate sulfotransferase 12,protein coding gene,ENSMUSG00000036599,59031
+CHST13,Chst13,carbohydrate sulfotransferase 13,protein coding gene,ENSMUSG00000056643,71797
+CHST14,Chst14,carbohydrate sulfotransferase 14,protein coding gene,ENSMUSG00000074916,72136
+CHST15,Chst15,carbohydrate sulfotransferase 15,protein coding gene,ENSMUSG00000030930,77590
+HS2ST1,Hs2st1,heparan sulfate 2-O-sulfotransferase 1,protein coding gene,ENSMUSG00000040151,23908
+HS3ST1,Hs3st1,heparan sulfate (glucosamine) 3-O-sulfotransferase 1,protein coding gene,ENSMUSG00000051022,15476
+HS3ST2,Hs3st2,heparan sulfate (glucosamine) 3-O-sulfotransferase 2,protein coding gene,ENSMUSG00000046321,195646
+HS3ST3A1,Hs3st3a1,heparan sulfate (glucosamine) 3-O-sulfotransferase 3A1,protein coding gene,ENSMUSG00000047759,15478
+HS3ST3B1,Hs3st3b1,heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1,protein coding gene,ENSMUSG00000070407,54710
+HS3ST4,Hs3st4,heparan sulfate (glucosamine) 3-O-sulfotransferase 4,protein coding gene,ENSMUSG00000078591,628779
+HS3ST5,Hs3st5,heparan sulfate (glucosamine) 3-O-sulfotransferase 5,protein coding gene,ENSMUSG00000044499,319415
+HS3ST5,Hs3st6,heparan sulfate (glucosamine) 3-O-sulfotransferase 6,protein coding gene,ENSMUSG00000039628,328779
+HS3ST6,Hs3st6,heparan sulfate (glucosamine) 3-O-sulfotransferase 6,protein coding gene,ENSMUSG00000039628,328779
+HS6ST1,Hs6st1,heparan sulfate 6-O-sulfotransferase 1,protein coding gene,ENSMUSG00000045216,50785
+HS6ST2,Hs6st2,heparan sulfate 6-O-sulfotransferase 2,protein coding gene,ENSMUSG00000062184,50786
+HS6ST3,Hs6st3,heparan sulfate 6-O-sulfotransferase 3,protein coding gene,ENSMUSG00000053465,50787
+NDST1,Ndst1,N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1,protein coding gene,ENSMUSG00000054008,15531
+NDST2,Ndst2,N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 2,protein coding gene,ENSMUSG00000039308,17423
+NDST3,Ndst3,N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 3,protein coding gene,ENSMUSG00000027977,83398
+NDST3,Ndst4,N-deacetylase/N-sulfotransferase (heparin glucosaminyl) 4,protein coding gene,ENSMUSG00000027971,64580
+NDST4,Ndst4,N-deacetylase/N-sulfotransferase (heparin glucosaminyl) 4,protein coding gene,ENSMUSG00000027971,64580
+UST,Ust,uronyl-2-sulfotransferase,protein coding gene,ENSMUSG00000047712,338362
+MGAT4C,Mgat4c,"MGAT4 family, member C",protein coding gene,ENSMUSG00000019888,67569
+MGAT4B,Mgat4b,"mannoside acetylglucosaminyltransferase 4, isoenzyme B",protein coding gene,ENSMUSG00000036620,103534
+MGAT4A,Mgat4a,"mannoside acetylglucosaminyltransferase 4, isoenzyme A",protein coding gene,ENSMUSG00000026110,269181
+XYLT1,Xylt1,xylosyltransferase 1,protein coding gene,ENSMUSG00000030657,233781
+XYLT2,Xylt2,xylosyltransferase II,protein coding gene,ENSMUSG00000020868,217119
+GALNT1,Galnt1,polypeptide N-acetylgalactosaminyltransferase 1,protein coding gene,ENSMUSG00000000420,14423
+GALNT2,Galnt2,polypeptide N-acetylgalactosaminyltransferase 2,protein coding gene,ENSMUSG00000089704,108148
+GALNT3,Galnt3,polypeptide N-acetylgalactosaminyltransferase 3,protein coding gene,ENSMUSG00000026994,14425
+GALNT4,Galnt4,polypeptide N-acetylgalactosaminyltransferase 4,protein coding gene,ENSMUSG00000090035,14426
+GALNT5,Galnt5,polypeptide N-acetylgalactosaminyltransferase 5,protein coding gene,ENSMUSG00000026828,241391
+GALNT6,Galnt6,polypeptide N-acetylgalactosaminyltransferase 6,protein coding gene,ENSMUSG00000037280,207839
+GALNT7,Galnt7,polypeptide N-acetylgalactosaminyltransferase 7,protein coding gene,ENSMUSG00000031608,108150
+GALNT7,Galnt15,polypeptide N-acetylgalactosaminyltransferase 15,protein coding gene,ENSMUSG00000021903,78754
+GALNT8,,,,,
+GALNT9,Galnt9,polypeptide N-acetylgalactosaminyltransferase 9,protein coding gene,ENSMUSG00000033316,231605
+GALNT9,Galnt10,polypeptide N-acetylgalactosaminyltransferase 10,protein coding gene,ENSMUSG00000020520,171212
+GALNT10,Galnt10,polypeptide N-acetylgalactosaminyltransferase 10,protein coding gene,ENSMUSG00000020520,171212
+GALNT11,Galnt11,polypeptide N-acetylgalactosaminyltransferase 11,protein coding gene,ENSMUSG00000038072,231050
+GALNT11,Galntl5,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 5,protein coding gene,ENSMUSG00000028938,67909
+GALNT12,Galnt12,polypeptide N-acetylgalactosaminyltransferase 12,protein coding gene,ENSMUSG00000039774,230145
+GALNT15,Galnt14,polypeptide N-acetylgalactosaminyltransferase 14,protein coding gene,ENSMUSG00000024064,71685
+GALNT15,Galnt15,polypeptide N-acetylgalactosaminyltransferase 15,protein coding gene,ENSMUSG00000021903,78754
+GALNT15,Galnt18,polypeptide N-acetylgalactosaminyltransferase 18,protein coding gene,ENSMUSG00000038296,233733
+GALNT15,Galntl5,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 5,protein coding gene,ENSMUSG00000028938,67909
+GALNT16,Galnt16,polypeptide N-acetylgalactosaminyltransferase 16,protein coding gene,ENSMUSG00000021130,108760
+GALNT16,Galnt17,polypeptide N-acetylgalactosaminyltransferase 17,protein coding gene,ENSMUSG00000034040,212996
+GALNTL6,Galntl6,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 6,protein coding gene,ENSMUSG00000096914,270049
+GALNT18,Galnt18,polypeptide N-acetylgalactosaminyltransferase 18,protein coding gene,ENSMUSG00000038296,233733
+GALNT17,Galnt17,polypeptide N-acetylgalactosaminyltransferase 17,protein coding gene,ENSMUSG00000034040,212996
+GALNT17,Galntl6,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 6,protein coding gene,ENSMUSG00000096914,270049
+GALNTL5,Galntl5,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 5,protein coding gene,ENSMUSG00000028938,67909
+GALNT13,Galnt13,polypeptide N-acetylgalactosaminyltransferase 13,protein coding gene,ENSMUSG00000060988,271786
+GALNT13,Galnt15,polypeptide N-acetylgalactosaminyltransferase 15,protein coding gene,ENSMUSG00000021903,78754
+GALNT14,Galnt14,polypeptide N-acetylgalactosaminyltransferase 14,protein coding gene,ENSMUSG00000024064,71685
+DSE,Dse,dermatan sulfate epimerase,protein coding gene,ENSMUSG00000039497,212898
+DSEL,Dsel,dermatan sulfate epimerase-like,protein coding gene,ENSMUSG00000038702,319901
+GLCE,Glce,glucuronyl C5-epimerase,protein coding gene,ENSMUSG00000032252,93683

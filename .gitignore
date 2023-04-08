@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.mtx
+*.rds
+*.pkl
+*.gz
+/Users/erikazhang/Dropbox (MIT)/20.440 Biological Networks/project/output/LN output/LN SCT matrix.csv
+/Users/erikazhang/Dropbox (MIT)/20.440 Biological Networks/project/output/TIL output/TIL SCT matrix.csv
+/Users/erikazhang/Dropbox (MIT)/20.440 Biological Networks/project/python pickles
